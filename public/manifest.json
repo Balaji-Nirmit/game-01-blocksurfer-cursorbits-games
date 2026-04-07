@@ -1,0 +1,21 @@
+{
+  "name": "Block Surfer",
+  "short_name": "BlockSurfer",
+  "description": "A Minecraft-themed 3D endless runner game.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00a8a8",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/blocksurfer/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/blocksurfer/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
